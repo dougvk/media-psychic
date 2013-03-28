@@ -6,6 +6,7 @@ dependencies = [
     'Django',
     'nose',
     'dj-database-url',
+    'scikit-learn',
 ]
 
 project_name = 'media-psychic'
